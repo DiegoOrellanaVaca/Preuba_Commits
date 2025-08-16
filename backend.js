@@ -1,4 +1,4 @@
-console.log('Hola, mundo!!!!!');
+console.log('Hola');
 
 // Función básica
 function suma(a, b) {
